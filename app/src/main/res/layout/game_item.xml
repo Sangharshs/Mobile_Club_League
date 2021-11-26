@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center_horizontal|center"
+    android:layout_centerInParent="true"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/game_img"
+        android:src="@drawable/phone_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:fontFamily="@font/ff"
+        android:text="BasketBall"
+        android:layout_below="@id/game_img"
+        android:layout_width="wrap_content"
+        android:id="@+id/game_name"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_below="@id/game_name"
+        android:id="@+id/bottom_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:background="@color/app_color"
+
+     />
+
+<!--    <View-->
+<!--        android:visibility="gone"-->
+<!--        android:id="@+id/clickr"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="?attr/selectableItemBackground"-->
+<!--        android:clickable="true"-->
+<!--        android:focusable="true"-->
+<!--        android:foreground="?attr/selectableItemBackground"-->
+<!--        tools:ignore="UnusedAttribute" />-->
+
+</RelativeLayout>

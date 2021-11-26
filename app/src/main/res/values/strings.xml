@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Mobile Club League</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="feedback">Feedback</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="check_updates">Check Updates</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share_app">Share App</string>
+    <string name="football">Football</string>
+    <string name="basketball">BasketBall</string>
+    <string name="cricket">Cricket</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news">News</string>
+    <!--    <string name="fb_app_id">362161925035368</string>-->
+    <!--    <string name="fb_interstitial_ad">362161925035368_457962988788594</string>-->
+    <!--    <string name="fb_banner_ad">362161925035368_457930912125135</string>-->
+    <!--    <string name="native_ad_fb">362161925035368_539527063965519</string>-->
+
+    <string name="fb_app_id">542227720188498</string>
+    <string name="fb_interstitial_ad">542227720188498_542231036854833</string>
+    <string name="fb_banner_ad">542227720188498_542228070188463</string>
+    <string name="native_ad_fb">542227720188498_542231533521450</string>
+
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="read_me_tips">Read Me (Tips)</string>
+
+    <string name="bangladesh_t20">Bangladesh T20</string>
+    <string name="this_match_is_covered_or_not_is_not_yet_decided_please_check_again_after_some_time">This match is covered or not, is not yet decided. Please check again after some time</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log Out</string>
+    <string name="restaurant_description">This is simple restuarant</string>
+    <string name="restaurant_name" />
+    <string name="the_dish_description">best dish</string>
+    <string name="the_dish_name">Chiken</string>
+    <string name="refer_amp_earn"><![CDATA[Refer & Earn]]></string>
+    <string name="invite_your_friend_and_earn_reward">Invite Your Friend And Earn Reward</string>
+    <string name="textView_forget_password">Forget Password</string>
+    <string name="submitbtn">Submit</string>
+    <string name="please_enter_email">Please Enter Email Address</string>
+    <string name="ok_message">OK</string>
+    <string name="EmailEditText_error">Something Went wrong</string>
+    <string name="loading">We are sending password on your email.</string>
+    <string name="redeem">Redeem</string>
+    <string name="account">Account</string>
+
+
+    <string-array name="restaurant_names">
+
+        <item>Classic Marie </item>
+        <item>Jully\'s Merry </item>
+        <item>Mr Escanor </item>
+        <item>Pizza Papi </item>
+        <item>The only Wife </item>
+
+    </string-array>
+
+    <string-array name="restaurant_icons">
+
+        <item>ic_classic_marie</item>
+        <item>ic_jully_merry </item>
+        <item>ic_mr_escanor </item>
+        <item>ic_pizza_papi </item>
+        <item>ic_the_only_wife </item>
+
+    </string-array>
+
+    <string-array name="restaurant_descriptions">
+
+        <item> Get a Classic touch of French Cuisine at Classic Marie\'s </item>
+        <item> All Summer is a perfect time to Merry with Jully at Jully\'s Merry </item>
+        <item> Feel the Hero spark in you With Mr Escanor\'s Godly Dishes </item>
+        <item> Get a feel of the Original Culture of Pizza at Pizza Papi\'s </item>
+        <item> You Know your only Real wife is the cool bottle of beer and some nice juicy steak  </item>
+
+    </string-array>
+
+    <string-array name="dishes">
+
+        <item>Whole Roasted Chicken</item>
+        <item>Saffron Bolognese</item>
+        <item>Buttermilk Chicken Tenders</item>
+        <item>French Lingcod</item>
+        <item>Shrimp Orange Gourmet </item>
+        <item>Warm Lobster Rolls </item>
+        <item>Super Sloppy Joes </item>
+        <item>Crazy Szechuan Beef and Messy Corn with Shishito </item>
+
+    </string-array>
+
+    <string-array name="dish_descriptions">
+
+        <item>A Whole chicken on the table is always a great joy</item>
+        <item>An astral dance of saffron and spaghetti </item>
+        <item>Chicken and Buttermilk in a dance of Extasie</item>
+        <item>Lingcod in it supreme expression</item>
+        <item>Some Shrimps are a super match with orange slices</item>
+        <item>This stuff will show you what it is like to feel love by the taste</item>
+        <item>You will love the delicious sensation in your mouth </item>
+        <item>Crazy as it says this dish will transport you into another realm </item>
+
+    </string-array>
+
+    <string-array name="dish_icons">
+
+        <item>ic_chicken</item>
+        <item>ic_bolognese</item>
+        <item>ic_buttermilk_chicken</item>
+        <item>ic_lingcod</item>
+        <item>ic_orange_shrimp</item>
+        <item>warm_lobster</item>
+        <item>sloppy_joes</item>
+        <item>beef_and_messy</item>
+
+    </string-array>
+</resources>

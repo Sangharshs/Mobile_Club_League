@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368275447786",
+    "project_id": "mobile-club-league",
+    "storage_bucket": "mobile-club-league.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368275447786:android:bbef748b2a846da6d61c93",
+        "android_client_info": {
+          "package_name": "com.cricket.mobile_club_league"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368275447786-lnv4p4t50l3g088gejdh7hq9rquslvo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWtUXo9piKRgL0NPvxuA5sAeN2xeK83NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368275447786-lnv4p4t50l3g088gejdh7hq9rquslvo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
